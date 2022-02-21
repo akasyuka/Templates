@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/Collections/Collections.iml" filepath="$PROJECT_DIR$/src/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/src/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/IO/IO.iml" filepath="$PROJECT_DIR$/src/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/src/Multithreading/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/OOP/OOP.iml" filepath="$PROJECT_DIR$/src/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Strings/Strings.iml" filepath="$PROJECT_DIR$/src/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Templates.iml" filepath="$PROJECT_DIR$/Templates.iml" />
+    </modules>
+  </component>
+</project>
