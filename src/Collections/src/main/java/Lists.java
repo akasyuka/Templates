@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.LinkedList;
 
 public class Lists {
@@ -14,6 +15,13 @@ public class Lists {
         for(String product: products) {
             System.out.println(product);
         }
+        System.out.println("________________");
+        Collections.sort(products);
+        for(String product: products) {
+            System.out.println(product);
+        }
+        System.out.println("________________");
+
 
 //Реализует интерфейсы List, Dequeue и Queue. То есть он соединяет функциональность
 //работы со списком и фукциональность очереди. First,Last
