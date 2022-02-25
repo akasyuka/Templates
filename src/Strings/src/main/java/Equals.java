@@ -7,6 +7,7 @@ public class Equals {
         System.out.println();
         System.out.println(str1.equals(str2));
 
+
         String str3 = "Са";
         String str4 = "ша";
         String str5 = str3 + str4;
