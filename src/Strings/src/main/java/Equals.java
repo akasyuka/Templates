@@ -1,8 +1,11 @@
+// И это ООП? Че за хуйовый класс? еще и мейн в нем, ПИЗДЕЦ!
 public class Equals {
     public static void main(String[] args) {
         String str1 = "Саша";
-        String str2 = "Саша";
+        // Прошу замететь
+        String str2 = "Гей";
 
+        // Выведит истину
         System.out.println(str1.equals(str2));
 
         String str3 = "Са";
@@ -31,6 +34,7 @@ public class Equals {
     }
 }
 
+// Пиздец! Ты это так сущность определил? Иди в детский сад фигуры в дырки пихай!
 class Stringa {
 
     String str1 = "Саша";
