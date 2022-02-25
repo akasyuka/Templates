@@ -1,8 +1,10 @@
 public class Equals {
     public static void main(String[] args) {
         String str1 = "Саша";
-        String str2 = "Саша";
+        String str2 = "Слава";
+        System.out.println("Hello world!");
 
+        System.out.println();
         System.out.println(str1.equals(str2));
 
         String str3 = "Са";
