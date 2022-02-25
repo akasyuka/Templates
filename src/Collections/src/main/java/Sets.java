@@ -51,7 +51,7 @@ public class Sets{
         }
 
         String str1 = "Саша";
-        String str2 = "C fifi"
+        String str2 = "C fifi";
         System.out.println(false);
 //
     }
