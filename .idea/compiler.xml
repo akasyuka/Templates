@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Exceptions" />
+        <module name="Serialization" />
         <module name="OOP" />
         <module name="Multithreading" />
+        <module name="IO" />
+        <module name="Exceptions" />
         <module name="Collections" />
         <module name="Strings" />
-        <module name="IO" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +22,7 @@
       <module name="Multithreading" target="11" />
       <module name="Multy" target="11" />
       <module name="OOP" target="11" />
+      <module name="Serialization" target="11" />
       <module name="Strings" target="11" />
     </bytecodeTargetLevel>
   </component>

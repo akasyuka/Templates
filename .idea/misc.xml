@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/src/OOP/pom.xml" />
         <option value="$PROJECT_DIR$/src/IO/pom.xml" />
         <option value="$PROJECT_DIR$/src/Strings/pom.xml" />
+        <option value="$PROJECT_DIR$/src/Serialization/pom.xml" />
       </list>
     </option>
   </component>
